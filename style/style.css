@@ -87,7 +87,7 @@
 .main_page_content_layout {
   display: flex;
   flex-direction: column;
-  padding-top: 0px;
+  padding-top: 78px;
 }
 
 .main_page_content_heading {
