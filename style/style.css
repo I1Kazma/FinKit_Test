@@ -598,7 +598,8 @@
     
   }
   .main_page_phone {
-    width: 100%;
+    min-width:375px;
+    max-width:438px;
     height: 403px;
   }
 
@@ -792,6 +793,10 @@
   .main_page_lang {
     width: 300px;
     padding-left: 44px;
+  }
+  
+  .main_page_phone{
+    width:438px;
   }
 
   .main_page_phone_flex {
