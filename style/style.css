@@ -596,6 +596,7 @@
     flex-direction: column-reverse;
     align-items: center;
     overflow: hidden;
+    width:375px;
   }
   .main_page_phone {
     width: 438px;
