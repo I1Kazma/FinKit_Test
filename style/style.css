@@ -606,6 +606,10 @@
   .main_page {
     height: 963px;
   }
+  
+  .main_page_wrapper, .main_products, .main_value{
+    width:375px;
+  }
 
   .main_page_content_layout {
     width: 343px;
